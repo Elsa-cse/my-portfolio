@@ -1,0 +1,85 @@
+[
+    {
+        "name": "News Alert Bot",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/news_alert_bot",
+        "topics": [],
+        "language": "Python",
+        "updated_at": "2026-06-13"
+    },
+    {
+        "name": "Climate Alert Bot",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/climate_alert_bot",
+        "topics": [],
+        "language": "Python",
+        "updated_at": "2026-06-13"
+    },
+    {
+        "name": "Pulse",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/pulse",
+        "topics": [],
+        "language": "Python",
+        "updated_at": "2026-06-13"
+    },
+    {
+        "name": "My Portfolio",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/my-portfolio",
+        "topics": [],
+        "language": "HTML",
+        "updated_at": "2026-06-10"
+    },
+    {
+        "name": "Elsa Cse",
+        "description": "Config files for my GitHub profile.",
+        "url": "https://github.com/Elsa-cse/Elsa-cse",
+        "topics": [
+            "config",
+            "github-config"
+        ],
+        "language": "Python",
+        "updated_at": "2025-06-07"
+    },
+    {
+        "name": "Hello",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/hello",
+        "topics": [],
+        "language": "Python",
+        "updated_at": "2025-03-07"
+    },
+    {
+        "name": "Newthink",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/newthink",
+        "topics": [],
+        "language": "Python",
+        "updated_at": "2025-03-07"
+    },
+    {
+        "name": "New",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/new",
+        "topics": [],
+        "language": "Python",
+        "updated_at": "2025-03-07"
+    },
+    {
+        "name": "Index.Html",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/index.html",
+        "topics": [],
+        "language": "HTML",
+        "updated_at": "2025-02-02"
+    },
+    {
+        "name": "Qst Html",
+        "description": "A technical engineering project developed and deployed via GitHub.",
+        "url": "https://github.com/Elsa-cse/qst-html",
+        "topics": [],
+        "language": "HTML",
+        "updated_at": "2025-02-01"
+    }
+]
